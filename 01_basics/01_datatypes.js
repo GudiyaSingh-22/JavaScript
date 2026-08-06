@@ -5,5 +5,6 @@ let married ;
 
 console.log(typeof"Gudiya")
 console.log(typeof age)
+console.log(typeof married)
 console.log(typeof null)
 console.log(typeof undefined)
