@@ -35,7 +35,6 @@ let score3 = 300
 
 console.log(Array.of(score1,score2,score3))
 
-
 //{ important edge case for push....it returns the length of the array instead of pushing the array
     //const arr = []
 //console.log(arr.push(10))}
