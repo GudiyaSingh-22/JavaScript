@@ -10,7 +10,7 @@ const regularUser = {
     fullname:{
         userfullname :{
             firstname: "Gudiya",
-            lastname:"Govind Mishra"
+            lastname:"Singh"
         }
     }
 }
